@@ -2,6 +2,9 @@
 🎓 BCA Student | 💻 Android Developer | 🧠 DSA Enthusiast<br><br>🚀 Crafting innovative mobile apps with Android Studio (Java/Kotlin).<br><br>🛠️ Sharpening problem-solving skills with Data Structures & Algorithms.<br><br>🌟 Passionate about building impactful and user-friendly solutions.<br><br>✨ Let’s code something awesome together!<br><br>
 
 
+[![](https://visitcount.itsvg.in/api?id=shettyharshith33&label=Profile%20Views&color=4&icon=0&pretty=true)](https://visitcount.itsvg.in)
+
+
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/shetty_harshith33) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/harshith-shetty033) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/ShettyHarshi33) 
 
