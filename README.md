@@ -4,11 +4,32 @@
 
 ## 🚀 My Popular Repositories
 
-[![My GitHub Repos](https://github-readme-stats.vercel.app/api/pin/?username=shettyharshith33&repo=API_Integration)](https://github.com/shettyharshith33/API_Integration)
-
-[![Another Repo](https://github-readme-stats.vercel.app/api/pin/?username=shettyharshith33&repo=VC_Puttur)](https://github.com/shettyharshith33/VC_Puttur)
-
-
+<table>
+  <tr>
+    <td>
+      <a href="https://github.com/shettyharshith33/API_Integration">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=shettyharshith33&repo=API_Integration" />
+      </a>
+    </td>
+    <td>
+      <a href="https://github.com/shettyharshith33/VC_Puttur">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=shettyharshith33&repo=VC_Puttur" />
+      </a>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <a href="https://github.com/shettyharshith33/Navigation">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=shettyharshith33&repo=Navigation" />
+      </a>
+    </td>
+    <td>
+      <a href="https://github.com/shettyharshith33/po2025_byte_buddies">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=shettyharshith33&repo=po2025_byte_buddies" />
+      </a>
+    </td>
+  </tr>
+</table>
 
 [![](https://visitcount.itsvg.in/api?id=shettyharshith33&label=Profile%20Views&color=4&icon=0&pretty=true)](https://visitcount.itsvg.in)
 
