@@ -24,8 +24,8 @@
       </a>
     </td>
     <td>
-      <a href="https://github.com/shettyharshith33/po2025_byte_buddies">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=shettyharshith33&repo=po2025_byte_buddies" />
+      <a href="https://github.com/shettyharshith33/Harshith-Shetty---Portfolio">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=shettyharshith33&repo=Harshith-Shetty---Portfolio" />
       </a>
     </td>
   </tr>
