@@ -2,6 +2,14 @@
 🎓 BCA Student | 💻 Android Developer | 🧠 DSA Enthusiast<br><br>🚀 Crafting innovative mobile apps with Android Studio (Java/Kotlin).<br><br>🛠️ Sharpening problem-solving skills with Data Structures & Algorithms.<br><br>🌟 Passionate about building impactful and user-friendly solutions.<br><br>✨ Let’s code something awesome together!<br><br>
 
 
+## 🚀 My Popular Repositories
+
+[![My GitHub Repos](https://github-readme-stats.vercel.app/api/pin/?username=shettyharshith33&repo=API_Integration)](https://github.com/shettyharshith33/API_Integration)
+
+[![Another Repo](https://github-readme-stats.vercel.app/api/pin/?username=shettyharshith33&repo=VC_Puttur)](https://github.com/shettyharshith33/VC_Puttur)
+
+
+
 [![](https://visitcount.itsvg.in/api?id=shettyharshith33&label=Profile%20Views&color=4&icon=0&pretty=true)](https://visitcount.itsvg.in)
 
 
