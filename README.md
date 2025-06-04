@@ -15,11 +15,6 @@
         <img src="https://github-readme-stats.vercel.app/api/pin/?username=shettyharshith33&repo=API_Integration" />
       </a>
     </td>
-    <td>
-      <a href="https://github.com/shettyharshith33/VC_Puttur">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=shettyharshith33&repo=VC_Puttur" />
-      </a>
-    </td>
   </tr>
   <tr>
     <td>
