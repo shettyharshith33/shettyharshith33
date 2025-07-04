@@ -6,29 +6,7 @@
 ### ✨ Let’s code something awesome together!<br><br>
 
 
-## 🚀 My Popular Repositories
 
-<table>
-  <tr>
-    <td>
-      <a href="https://github.com/shettyharshith33/API_Integration">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=shettyharshith33&repo=API_Integration" />
-      </a>
-    </td>
-  </tr>
-  <tr>
-    <td>
-      <a href="https://github.com/shettyharshith33/Navigation">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=shettyharshith33&repo=Navigation" />
-      </a>
-    </td>
-    <td>
-      <a href="https://github.com/shettyharshith33/Harshith-Shetty---Portfolio">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=shettyharshith33&repo=Harshith-Shetty---Portfolio" />
-      </a>
-    </td>
-  </tr>
-</table>
 
 [![](https://visitcount.itsvg.in/api?id=shettyharshith33&label=Profile%20Views&color=4&icon=0&pretty=true)](https://visitcount.itsvg.in)
 
