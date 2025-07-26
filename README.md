@@ -33,7 +33,3 @@
 [![](https://visitcount.itsvg.in/api?id=shettyharshith33&icon=5&color=2)](https://visitcount.itsvg.in)
 
 
-<img src="https://raw.githubusercontent.com/shettyharshith33/shettyharshith33/output/snake.svg" alt="Snake animation" />
-
-
-
