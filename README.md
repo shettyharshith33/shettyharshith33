@@ -1,9 +1,9 @@
-##  💫 About Me:
-# 🎓 BCA Student | 💻 Android Developer | 🧠 DSA<br>
-# 🚀 Crafting innovative mobile apps with Android Studio (Java/Kotlin).<br>
-# 🛠️ Sharpening problem-solving skills with Data Structures & Algorithms.<br>
-# 🌟 Passionate about building impactful and user-friendly solutions.<br>
-# ✨ Let’s code something awesome together!<br>
+# 💫 About Me:
+🎓 BCA Student | 💻 Android Developer | 🧠 DSA<br><br>
+🚀 Crafting innovative mobile apps with Android Studio (Java/Kotlin).<br><br>
+🛠️ Sharpening problem-solving skills with Data Structures & Algorithms.<br><br>
+🌟 Passionate about building impactful and user-friendly solutions.<br><br>
+✨ Let’s code something awesome together!<br><br>
 
 
 ## 🌐 Socials:
