@@ -35,6 +35,3 @@
 [![](https://visitcount.itsvg.in/api?id=shettyharshith33&icon=5&color=2)](https://visitcount.itsvg.in)
 
 
-<script src="
-https://cdn.jsdelivr.net/npm/pacman-contribution-graph@2.2.1/dist/pacman-contribution-graph.min.js
-"></script>
