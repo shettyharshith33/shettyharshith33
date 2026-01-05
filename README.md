@@ -1,4 +1,4 @@
-# 💫 About Me:
+# About Me:
 🎓 MCA Student | 💻 Android Developer | 🧠 DSA<br><br>
 🚀 Crafting innovative mobile apps with Android Studio (Java/Kotlin).<br><br>
 🛠️ Sharpening problem-solving skills with Data Structures & Algorithms.<br><br>
