@@ -1,63 +1,19 @@
-# Hey, I’m Harshith 👋  
-**Android Engineer in the making | MCA | Problem Solver**
+# 💫 About Me:
+🎓 MCA Student | 💻 Android Developer | 🧠 DSA<br><br>🚀 Building Android apps with Java & Kotlin — bugs included, fixes guaranteed.<br><br>🛠️ Grinding Data Structures & Algorithms so future-me doesn’t panic in interviews.<br><br>📱 Turning coffee ☕ into Jetpack Compose screens.<br><br>🐞 Breaking code daily, fixing it smarter the next day.<br><br>✨ Let’s build something awesome (and actually ship it).
 
-I don’t just write code —  
-I **ship apps**, break them on purpose, and rebuild them better.
 
----
+## 🌐 Socials:
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/shetty_harshith33) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/harshith-shetty033/) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/ShettyHarshi33) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:harshithshetty033@gmail.com) 
 
-## 🚀 What I Do
-- 📱 Build **Android apps** using **Kotlin & Java** (Jetpack Compose preferred)
-- 🧠 Practice **DSA daily** to stay calm when interviews try to do the opposite
-- 🔥 Turn ideas → working products (with real users, not just demos)
-- 🐞 Debug like a detective, not a guesser
+# 💻 Tech Stack:
+![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![Kotlin](https://img.shields.io/badge/kotlin-%237F52FF.svg?style=for-the-badge&logo=kotlin&logoColor=white) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white) ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase) ![Google Cloud](https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white) ![Apache Tomcat](https://img.shields.io/badge/apache%20tomcat-%23F8DC75.svg?style=for-the-badge&logo=apache-tomcat&logoColor=black) ![Firebase](https://img.shields.io/badge/firebase-a08021?style=for-the-badge&logo=firebase&logoColor=ffcd34) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=shettyharshith33&theme=dark&hide_border=true&include_all_commits=true&count_private=false)<br/>
+![](https://nirzak-streak-stats.vercel.app/?user=shettyharshith33&theme=dark&hide_border=true)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=shettyharshith33&theme=dark&hide_border=true&include_all_commits=true&count_private=false&layout=compact)
 
-> I believe consistency beats motivation — that’s how *Streakify* was born.
+## 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=shettyharshith33&theme=radical&no-frame=false&no-bg=false&margin-w=4)
 
----
-
-## 🧩 Currently Focused On
-- Clean architecture in Android (MVVM, state handling, performance)
-- Writing **interview-proof DSA code**
-- Shipping small features fast instead of dreaming about big apps forever
-
----
-
-## 🛠 Tech I Actually Use
-**Languages & Core**
-- Kotlin · Java · C  
-
-**Android**
-- Jetpack Compose · Firebase · Material Design  
-
-**Backend & Cloud**
-- Firebase · PostgreSQL · MySQL · Google Cloud  
-
-**Tools**
-- Git · GitHub · Postman · Figma · Vercel · Apache Tomcat  
-
----
-
-## 🌐 Let’s Connect
-- 💼 LinkedIn: https://www.linkedin.com/in/harshith-shetty033  
-- 📸 Instagram: https://instagram.com/shetty_harshith33  
-- 🐦 X (Twitter): https://x.com/ShettyHarshi33  
-- 📧 Email: harshithshetty033@gmail.com  
-
----
-
-## 🏆 GitHub Highlights
-![Trophies](https://github-profile-trophy.vercel.app/?username=shettyharshith33&theme=radical&margin-w=8)
-
----
-
-## ✍️ Dev Thought I Live By
-> “If you can’t explain your code simply, you don’t understand it well enough.”
-
-![Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
-
----
-
-### ⚡ Fun Fact
-I track habits with an app I built myself —  
-because **discipline scales better than motivation**.
+### ✍️ Random Dev Quote
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
