@@ -1,24 +1,19 @@
-# <p align="center">─── ⚡ HARSHITH-OS v2.0.26 ⚡ ───</p>
+# 💫 About Me:
+🎓 MCA Student | 💻 Android Developer | 🧠 DSA<br><br>🚀 Building Android apps with Java & Kotlin — bugs included, fixes guaranteed.<br><br>🛠️ Grinding Data Structures & Algorithms so future-me doesn’t panic in interviews.<br><br>📱 Turning coffee ☕ into Jetpack Compose screens.<br><br>🐞 Breaking code daily, fixing it smarter the next day.<br><br>✨ Let’s build something awesome (and actually ship it).
 
-<p align="center">
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=28&pause=1000&color=36BCF7&center=true&vCenter=true&width=700&lines=Executing+Harshith.init();Eat+Sleep+Code+Repeat;MCA+@+NMAMIT;While(alive)+{+code()+};Optimizing+Every+Pixel;Bugs+Fear+Me...;Fixes+Guaranteed." alt="Typing SVG" />
-</p>
-</p>
 
-<p align="center"> <img src="https://www.google.com/search?q=https://quotes-github-readme.vercel.app/api%3Ftype%3Dhorizontal%26theme%3Dtokyonight" /> </p>
----
+## 🌐 Socials:
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/shetty_harshith33) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/harshith-shetty033/) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/ShettyHarshi33) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:harshithshetty033@gmail.com) 
 
-### 🟢 User Profile: /home/harshith
-```bash
-$ whoami
-> Harshith Shetty: MCA Scholar @ NMAMIT | Android Architect
+# 💻 Tech Stack:
+![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![Kotlin](https://img.shields.io/badge/kotlin-%237F52FF.svg?style=for-the-badge&logo=kotlin&logoColor=white) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white) ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase) ![Google Cloud](https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white) ![Apache Tomcat](https://img.shields.io/badge/apache%20tomcat-%23F8DC75.svg?style=for-the-badge&logo=apache-tomcat&logoColor=black) ![Firebase](https://img.shields.io/badge/firebase-a08021?style=for-the-badge&logo=firebase&logoColor=ffcd34) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=shettyharshith33&theme=dark&hide_border=true&include_all_commits=true&count_private=false)<br/>
+![](https://nirzak-streak-stats.vercel.app/?user=shettyharshith33&theme=dark&hide_border=true)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=shettyharshith33&theme=dark&hide_border=true&include_all_commits=true&count_private=false&layout=compact)
 
-$ info --details
-> 🎓 Degree: Master of Computer Applications
-> 📱 Focus: Crafting Fluid UI with Jetpack Compose & Kotlin
-> 🧠 Logic: Grinding LeetCode so the Heap doesn't Overflow
-> 🛠️ Status: Building 'Streakify' & breaking production builds.
+## 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=shettyharshith33&theme=radical&no-frame=false&no-bg=false&margin-w=4)
 
-$ cat mindset.txt
-> "Turning complex bugs into elegant features, one caffeine molecule at a time."
+### ✍️ Random Dev Quote
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
