@@ -1,12 +1,21 @@
+# <p align="center">─── ⚡ HARSHITH-OS v2.0.26 ⚡ ───</p>
+
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=28&pause=1000&color=36BCF7&center=true&vCenter=true&width=600&lines=System.init();Loading+Android+Modules...;Debugging+The+Future;Coffee+In++--%3E+Code+Out" alt="Typing SVG" />
+</p>
+
+---
+
+### 🟢 User Profile: /home/harshith
+```bash
 $ whoami
-> I am a creative engineer specializing in the Android ecosystem.
+> Harshith Shetty: MCA Scholar @ NMAMIT | Android Architect
 
-$ current_focus
-> Transforming complex problems into Kotlin-based solutions.
-> Currently: Finishing MCA @ NMAMIT | Maintaining Streakify
+$ info --details
+> 🎓 Degree: Master of Computer Applications
+> 📱 Focus: Crafting Fluid UI with Jetpack Compose & Kotlin
+> 🧠 Logic: Grinding LeetCode so the Heap doesn't Overflow
+> 🛠️ Status: Building 'Streakify' & breaking production builds.
 
-$ tech_philosophy
-> "Code is poetry, but performance is the rhythm."
-
-$ sudo run innovation --target "Android"
-> [SUCCESS] ... Crafting seamless UIs and robust Firebase architectures.
+$ cat mindset.txt
+> "Turning complex bugs into elegant features, one caffeine molecule at a time."
