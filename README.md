@@ -6,7 +6,9 @@
 </p>
 </p>
 
+<p align="center"> <img src="https://www.google.com/search?q=https://quotes-github-readme.vercel.app/api%3Ftype%3Dhorizontal%26theme%3Dtokyonight" /> </p>
 ---
+
 ### 🟢 User Profile: /home/harshith
 ```bash
 $ whoami
