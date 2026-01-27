@@ -1,55 +1,19 @@
-# ⚡ Digital Architect | Android Developer
+# 💫 About Me:
+🎓 MCA Student | 💻 Android Developer | 🧠 DSA<br><br>🚀 Building Android apps with Java & Kotlin — bugs included, fixes guaranteed.<br><br>🛠️ Grinding Data Structures & Algorithms so future-me doesn’t panic in interviews.<br><br>📱 Turning coffee ☕ into Jetpack Compose screens.<br><br>🐞 Breaking code daily, fixing it smarter the next day.<br><br>✨ Let’s build something awesome (and actually ship it).
 
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&pause=1000&color=36BCF7&center=true&vCenter=true&width=600&lines=Crafting+seamless+mobile+experiences;MCA+Scholar+@+NMAMIT;Kotlin+%2B+Jetpack+Compose+Enthusiast;Building+the+next+big+thing..." alt="Typing SVG" />
-</p>
 
----
+## 🌐 Socials:
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/shetty_harshith33) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/harshith-shetty033/) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/ShettyHarshi33) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:harshithshetty033@gmail.com) 
 
-### 👨‍💻 About Me
-I am a passionate **Android Developer** focused on building clean, scalable, and user-centric mobile applications. Currently pursuing my **Master of Computer Applications (MCA)**, I balance academic rigor with real-world shipping.
+# 💻 Tech Stack:
+![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![Kotlin](https://img.shields.io/badge/kotlin-%237F52FF.svg?style=for-the-badge&logo=kotlin&logoColor=white) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white) ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase) ![Google Cloud](https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white) ![Apache Tomcat](https://img.shields.io/badge/apache%20tomcat-%23F8DC75.svg?style=for-the-badge&logo=apache-tomcat&logoColor=black) ![Firebase](https://img.shields.io/badge/firebase-a08021?style=for-the-badge&logo=firebase&logoColor=ffcd34) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=shettyharshith33&theme=dark&hide_border=true&include_all_commits=true&count_private=false)<br/>
+![](https://nirzak-streak-stats.vercel.app/?user=shettyharshith33&theme=dark&hide_border=true)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=shettyharshith33&theme=dark&hide_border=true&include_all_commits=true&count_private=false&layout=compact)
 
-- 🛠️ Currently polishing **[Streakify](https://github.com/[YOUR_GITHUB_USERNAME]/Streakify)** – a habit-tracking powerhouse.
-- 🎓 Exploring the intersection of **Computer Vision** and Health-tech.
-- 💬 Ask me about **Dependency Injection (Hilt)** or **MVVM Architecture**.
+## 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=shettyharshith33&theme=radical&no-frame=false&no-bg=false&margin-w=4)
 
----
-
-### 🚀 Tech Stack & Tools
-<p align="left">
-  <img src="https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white" />
-  <img src="https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white" />
-  <img src="https://img.shields.io/badge/Jetpack_Compose-4285F4?style=for-the-badge&logo=jetpackcompose&logoColor=white" />
-  <img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black" />
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
-</p>
-
----
-
-### 📊 GitHub Analytics
-<p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=[YOUR_GITHUB_USERNAME]&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=[YOUR_GITHUB_USERNAME]&layout=compact&langs_count=7&theme=tokyonight" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=[YOUR_GITHUB_USERNAME]&theme=tokyonight" alt="GitHub Streak" />
-</p>
-
----
-
-### 🌟 Project Spotlight: Streakify
-*An Android application designed to gamify habit building.*
-- **Tech:** Jetpack Compose, Room DB, Firebase.
-- **Goal:** Helping users maintain consistency through visual streaks.
-- [View Repository →](https://github.com/[YOUR_GITHUB_USERNAME]/Streakify)
-
----
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=[YOUR_GITHUB_USERNAME]&label=Profile%20Views&color=0e75b6&style=flat" alt="Views" />
-</p>
-
-<p align="center"> 
-  <a href="https://linkedin.com/in/[YOUR_LINKEDIN]"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-</p>
+### ✍️ Random Dev Quote
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
