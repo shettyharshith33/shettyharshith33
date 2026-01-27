@@ -7,10 +7,6 @@
 </p>
 
 ---
-
-p align="left"> <img src="https://img.shields.io/badge/kotlin-%237F52FF.svg?style=for-the-badge&logo=kotlin&logoColor=white" /> <img src="https://www.google.com/search?q=https://img.shields.io/badge/Jetpack%2520Compose-4285F4%3Fstyle%3Dfor-the-badge%26logo%3Djetpackcompose%26logoColor%3Dwhite" /> <img src="https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase" /> <img src="https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white" /> <img src="https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white" /> </p>
-
-
 ### 🟢 User Profile: /home/harshith
 ```bash
 $ whoami
