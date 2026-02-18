@@ -1,3 +1,9 @@
+<h1 align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=36BCF7&center=true&vCenter=true&width=435&lines=Android+Developer;Kotlin+Multiplatform+Enthusiast;Jetpack+Compose+Specialist;Building+Streakify...🚀" alt="Typing SVG" />
+  </a>
+</h1>
+
 # 💫 About Me:
 🎓 MCA Student | 💻 Android Developer | 🧠 DSA<br><br>🚀 Building Android apps with Java & Kotlin — bugs included, fixes guaranteed.<br><br>🛠️ Grinding Data Structures & Algorithms so future-me doesn’t panic in interviews.<br><br>📱 Turning coffee ☕ into Jetpack Compose screens.<br><br>🐞 Breaking code daily, fixing it smarter the next day.<br><br>✨ Let’s build something awesome (and actually ship it).
 
