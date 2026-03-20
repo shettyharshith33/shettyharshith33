@@ -16,8 +16,6 @@
 
 
 
-[![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=shettyharshith33&theme=react-dark)](https://github.com/ashutosh00710/github-readme-activity-graph)
-
 
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=shettyharshith33&theme=dark)](https://git.io/streak-stats)
