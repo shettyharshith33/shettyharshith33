@@ -74,15 +74,11 @@
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=shettyharshith33&theme=react-dark&bg_color=0B1220&color=3DDC84&line=3DDC84&point=ffffff&hide_border=true" width="90%"/>
 </p>
 
-## 🐍 Contribution Snake
 
 <p align="center">
 <img src="https://raw.githubusercontent.com/shettyharshith33/shettyharshith33/output/github-contribution-grid-snake-dark.svg" width="90%"/>
 </p>
 
-> Powered by the `Platane/snk` GitHub Action — see setup steps below if it isn't showing yet.
-
-### ✍️ Random Dev Quote
 
 <p align="center">
 <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" />
@@ -91,6 +87,6 @@
 <div align="center">
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:3DDC84,50:00C2A8,100:7F52FF&height=140&section=footer"/>
 
-<sub>thanks for stopping by — now go build something 🚀</sub>
+## Done stalking ? Now go build something 🚀</sub>
 
 </div>
