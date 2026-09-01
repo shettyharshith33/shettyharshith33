@@ -1,0 +1,338 @@
+<svg width="1200" height="320" viewBox="0 0 1200 320" xmlns="http://www.w3.org/2000/svg">
+<defs>
+
+  <linearGradient id="bgGrad" x1="0%" y1="0%" x2="100%" y2="100%">
+    <stop offset="0%" stop-color="#071019"/>
+    <stop offset="55%" stop-color="#0B2137"/>
+    <stop offset="100%" stop-color="#0E2A1E"/>
+  </linearGradient>
+  <radialGradient id="spot" cx="50%" cy="35%" r="70%">
+    <stop offset="0%" stop-color="#3DDC84" stop-opacity="0.16"/>
+    <stop offset="100%" stop-color="#3DDC84" stop-opacity="0"/>
+  </radialGradient>
+
+
+  <symbol id="androidBot" viewBox="0 0 60 72">
+    <line x1="14" y1="10" x2="8" y2="0" stroke="#3DDC84" stroke-width="3" stroke-linecap="round"/>
+    <line x1="46" y1="10" x2="52" y2="0" stroke="#3DDC84" stroke-width="3" stroke-linecap="round"/>
+    <circle cx="8" cy="0" r="3" fill="#3DDC84"/>
+    <circle cx="52" cy="0" r="3" fill="#3DDC84"/>
+    <path d="M10,35 a20,20 0 0 1 40,0 v20 a5,5 0 0 1 -5,5 h-30 a5,5 0 0 1 -5,-5 z" fill="#3DDC84"/>
+    <circle cx="22" cy="30" r="3" fill="#052018"/>
+    <circle cx="38" cy="30" r="3" fill="#052018"/>
+    <rect x="0" y="35" width="6" height="18" rx="3" fill="#3DDC84"/>
+    <rect x="54" y="35" width="6" height="18" rx="3" fill="#3DDC84"/>
+    <rect x="16" y="60" width="8" height="12" rx="3" fill="#3DDC84"/>
+    <rect x="36" y="60" width="8" height="12" rx="3" fill="#3DDC84"/>
+  </symbol>
+
+</defs>
+<rect width="1200" height="320" fill="url(#bgGrad)"/>
+<rect width="1200" height="320" fill="url(#spot)"/>
+<circle cx="0" cy="0" r="1.1" fill="#3DDC84" opacity="0.12"/>
+<circle cx="0" cy="60" r="1.1" fill="#3DDC84" opacity="0.12"/>
+<circle cx="0" cy="120" r="1.1" fill="#3DDC84" opacity="0.12"/>
+<circle cx="0" cy="180" r="1.1" fill="#3DDC84" opacity="0.12"/>
+<circle cx="0" cy="240" r="1.1" fill="#3DDC84" opacity="0.12"/>
+<circle cx="0" cy="300" r="1.1" fill="#3DDC84" opacity="0.12"/>
+<circle cx="60" cy="0" r="1.1" fill="#3DDC84" opacity="0.12"/>
+<circle cx="60" cy="60" r="1.1" fill="#3DDC84" opacity="0.12"/>
+<circle cx="60" cy="120" r="1.1" fill="#3DDC84" opacity="0.12"/>
+<circle cx="60" cy="180" r="1.1" fill="#3DDC84" opacity="0.12"/>
+<circle cx="60" cy="240" r="1.1" fill="#3DDC84" opacity="0.12"/>
+<circle cx="60" cy="300" r="1.1" fill="#3DDC84" opacity="0.12"/>
+<circle cx="120" cy="0" r="1.1" fill="#3DDC84" opacity="0.12"/>
+<circle cx="120" cy="60" r="1.1" fill="#3DDC84" opacity="0.12"/>
+<circle cx="120" cy="120" r="1.1" fill="#3DDC84" opacity="0.12"/>
+<circle cx="120" cy="180" r="1.1" fill="#3DDC84" opacity="0.12"/>
+<circle cx="120" cy="240" r="1.1" fill="#3DDC84" opacity="0.12"/>
+<circle cx="120" cy="300" r="1.1" fill="#3DDC84" opacity="0.12"/>
+<circle cx="180" cy="0" r="1.1" fill="#3DDC84" opacity="0.12"/>
+<circle cx="180" cy="60" r="1.1" fill="#3DDC84" opacity="0.12"/>
+<circle cx="180" cy="120" r="1.1" fill="#3DDC84" opacity="0.12"/>
+<circle cx="180" cy="180" r="1.1" fill="#3DDC84" opacity="0.12"/>
+<circle cx="180" cy="240" r="1.1" fill="#3DDC84" opacity="0.12"/>
+<circle cx="180" cy="300" r="1.1" fill="#3DDC84" opacity="0.12"/>
+<circle cx="240" cy="0" r="1.1" fill="#3DDC84" opacity="0.12"/>
+<circle cx="240" cy="60" r="1.1" fill="#3DDC84" opacity="0.12"/>
+<circle cx="240" cy="120" r="1.1" fill="#3DDC84" opacity="0.12"/>
+<circle cx="240" cy="180" r="1.1" fill="#3DDC84" opacity="0.12"/>
+<circle cx="240" cy="240" r="1.1" fill="#3DDC84" opacity="0.12"/>
+<circle cx="240" cy="300" r="1.1" fill="#3DDC84" opacity="0.12"/>
+<circle cx="300" cy="0" r="1.1" fill="#3DDC84" opacity="0.12"/>
+<circle cx="300" cy="60" r="1.1" fill="#3DDC84" opacity="0.12"/>
+<circle cx="300" cy="120" r="1.1" fill="#3DDC84" opacity="0.12"/>
+<circle cx="300" cy="180" r="1.1" fill="#3DDC84" opacity="0.12"/>
+<circle cx="300" cy="240" r="1.1" fill="#3DDC84" opacity="0.12"/>
+<circle cx="300" cy="300" r="1.1" fill="#3DDC84" opacity="0.12"/>
+<circle cx="360" cy="0" r="1.1" fill="#3DDC84" opacity="0.12"/>
+<circle cx="360" cy="60" r="1.1" fill="#3DDC84" opacity="0.12"/>
+<circle cx="360" cy="120" r="1.1" fill="#3DDC84" opacity="0.12"/>
+<circle cx="360" cy="180" r="1.1" fill="#3DDC84" opacity="0.12"/>
+<circle cx="360" cy="240" r="1.1" fill="#3DDC84" opacity="0.12"/>
+<circle cx="360" cy="300" r="1.1" fill="#3DDC84" opacity="0.12"/>
+<circle cx="420" cy="0" r="1.1" fill="#3DDC84" opacity="0.12"/>
+<circle cx="420" cy="60" r="1.1" fill="#3DDC84" opacity="0.12"/>
+<circle cx="420" cy="120" r="1.1" fill="#3DDC84" opacity="0.12"/>
+<circle cx="420" cy="180" r="1.1" fill="#3DDC84" opacity="0.12"/>
+<circle cx="420" cy="240" r="1.1" fill="#3DDC84" opacity="0.12"/>
+<circle cx="420" cy="300" r="1.1" fill="#3DDC84" opacity="0.12"/>
+<circle cx="480" cy="0" r="1.1" fill="#3DDC84" opacity="0.12"/>
+<circle cx="480" cy="60" r="1.1" fill="#3DDC84" opacity="0.12"/>
+<circle cx="480" cy="120" r="1.1" fill="#3DDC84" opacity="0.12"/>
+<circle cx="480" cy="180" r="1.1" fill="#3DDC84" opacity="0.12"/>
+<circle cx="480" cy="240" r="1.1" fill="#3DDC84" opacity="0.12"/>
+<circle cx="480" cy="300" r="1.1" fill="#3DDC84" opacity="0.12"/>
+<circle cx="540" cy="0" r="1.1" fill="#3DDC84" opacity="0.12"/>
+<circle cx="540" cy="60" r="1.1" fill="#3DDC84" opacity="0.12"/>
+<circle cx="540" cy="120" r="1.1" fill="#3DDC84" opacity="0.12"/>
+<circle cx="540" cy="180" r="1.1" fill="#3DDC84" opacity="0.12"/>
+<circle cx="540" cy="240" r="1.1" fill="#3DDC84" opacity="0.12"/>
+<circle cx="540" cy="300" r="1.1" fill="#3DDC84" opacity="0.12"/>
+<circle cx="600" cy="0" r="1.1" fill="#3DDC84" opacity="0.12"/>
+<circle cx="600" cy="60" r="1.1" fill="#3DDC84" opacity="0.12"/>
+<circle cx="600" cy="120" r="1.1" fill="#3DDC84" opacity="0.12"/>
+<circle cx="600" cy="180" r="1.1" fill="#3DDC84" opacity="0.12"/>
+<circle cx="600" cy="240" r="1.1" fill="#3DDC84" opacity="0.12"/>
+<circle cx="600" cy="300" r="1.1" fill="#3DDC84" opacity="0.12"/>
+<circle cx="660" cy="0" r="1.1" fill="#3DDC84" opacity="0.12"/>
+<circle cx="660" cy="60" r="1.1" fill="#3DDC84" opacity="0.12"/>
+<circle cx="660" cy="120" r="1.1" fill="#3DDC84" opacity="0.12"/>
+<circle cx="660" cy="180" r="1.1" fill="#3DDC84" opacity="0.12"/>
+<circle cx="660" cy="240" r="1.1" fill="#3DDC84" opacity="0.12"/>
+<circle cx="660" cy="300" r="1.1" fill="#3DDC84" opacity="0.12"/>
+<circle cx="720" cy="0" r="1.1" fill="#3DDC84" opacity="0.12"/>
+<circle cx="720" cy="60" r="1.1" fill="#3DDC84" opacity="0.12"/>
+<circle cx="720" cy="120" r="1.1" fill="#3DDC84" opacity="0.12"/>
+<circle cx="720" cy="180" r="1.1" fill="#3DDC84" opacity="0.12"/>
+<circle cx="720" cy="240" r="1.1" fill="#3DDC84" opacity="0.12"/>
+<circle cx="720" cy="300" r="1.1" fill="#3DDC84" opacity="0.12"/>
+<circle cx="780" cy="0" r="1.1" fill="#3DDC84" opacity="0.12"/>
+<circle cx="780" cy="60" r="1.1" fill="#3DDC84" opacity="0.12"/>
+<circle cx="780" cy="120" r="1.1" fill="#3DDC84" opacity="0.12"/>
+<circle cx="780" cy="180" r="1.1" fill="#3DDC84" opacity="0.12"/>
+<circle cx="780" cy="240" r="1.1" fill="#3DDC84" opacity="0.12"/>
+<circle cx="780" cy="300" r="1.1" fill="#3DDC84" opacity="0.12"/>
+<circle cx="840" cy="0" r="1.1" fill="#3DDC84" opacity="0.12"/>
+<circle cx="840" cy="60" r="1.1" fill="#3DDC84" opacity="0.12"/>
+<circle cx="840" cy="120" r="1.1" fill="#3DDC84" opacity="0.12"/>
+<circle cx="840" cy="180" r="1.1" fill="#3DDC84" opacity="0.12"/>
+<circle cx="840" cy="240" r="1.1" fill="#3DDC84" opacity="0.12"/>
+<circle cx="840" cy="300" r="1.1" fill="#3DDC84" opacity="0.12"/>
+<circle cx="900" cy="0" r="1.1" fill="#3DDC84" opacity="0.12"/>
+<circle cx="900" cy="60" r="1.1" fill="#3DDC84" opacity="0.12"/>
+<circle cx="900" cy="120" r="1.1" fill="#3DDC84" opacity="0.12"/>
+<circle cx="900" cy="180" r="1.1" fill="#3DDC84" opacity="0.12"/>
+<circle cx="900" cy="240" r="1.1" fill="#3DDC84" opacity="0.12"/>
+<circle cx="900" cy="300" r="1.1" fill="#3DDC84" opacity="0.12"/>
+<circle cx="960" cy="0" r="1.1" fill="#3DDC84" opacity="0.12"/>
+<circle cx="960" cy="60" r="1.1" fill="#3DDC84" opacity="0.12"/>
+<circle cx="960" cy="120" r="1.1" fill="#3DDC84" opacity="0.12"/>
+<circle cx="960" cy="180" r="1.1" fill="#3DDC84" opacity="0.12"/>
+<circle cx="960" cy="240" r="1.1" fill="#3DDC84" opacity="0.12"/>
+<circle cx="960" cy="300" r="1.1" fill="#3DDC84" opacity="0.12"/>
+<circle cx="1020" cy="0" r="1.1" fill="#3DDC84" opacity="0.12"/>
+<circle cx="1020" cy="60" r="1.1" fill="#3DDC84" opacity="0.12"/>
+<circle cx="1020" cy="120" r="1.1" fill="#3DDC84" opacity="0.12"/>
+<circle cx="1020" cy="180" r="1.1" fill="#3DDC84" opacity="0.12"/>
+<circle cx="1020" cy="240" r="1.1" fill="#3DDC84" opacity="0.12"/>
+<circle cx="1020" cy="300" r="1.1" fill="#3DDC84" opacity="0.12"/>
+<circle cx="1080" cy="0" r="1.1" fill="#3DDC84" opacity="0.12"/>
+<circle cx="1080" cy="60" r="1.1" fill="#3DDC84" opacity="0.12"/>
+<circle cx="1080" cy="120" r="1.1" fill="#3DDC84" opacity="0.12"/>
+<circle cx="1080" cy="180" r="1.1" fill="#3DDC84" opacity="0.12"/>
+<circle cx="1080" cy="240" r="1.1" fill="#3DDC84" opacity="0.12"/>
+<circle cx="1080" cy="300" r="1.1" fill="#3DDC84" opacity="0.12"/>
+<circle cx="1140" cy="0" r="1.1" fill="#3DDC84" opacity="0.12"/>
+<circle cx="1140" cy="60" r="1.1" fill="#3DDC84" opacity="0.12"/>
+<circle cx="1140" cy="120" r="1.1" fill="#3DDC84" opacity="0.12"/>
+<circle cx="1140" cy="180" r="1.1" fill="#3DDC84" opacity="0.12"/>
+<circle cx="1140" cy="240" r="1.1" fill="#3DDC84" opacity="0.12"/>
+<circle cx="1140" cy="300" r="1.1" fill="#3DDC84" opacity="0.12"/>
+<g id="gearA" transform="translate(70,60)">
+<rect x="-3.6400000000000006" y="-30.68" width="7.280000000000001" height="8.84" rx="2" fill="#0E2A1E" transform="rotate(0.0)"/>
+<rect x="-3.6400000000000006" y="-30.68" width="7.280000000000001" height="8.84" rx="2" fill="#0E2A1E" transform="rotate(45.0)"/>
+<rect x="-3.6400000000000006" y="-30.68" width="7.280000000000001" height="8.84" rx="2" fill="#0E2A1E" transform="rotate(90.0)"/>
+<rect x="-3.6400000000000006" y="-30.68" width="7.280000000000001" height="8.84" rx="2" fill="#0E2A1E" transform="rotate(135.0)"/>
+<rect x="-3.6400000000000006" y="-30.68" width="7.280000000000001" height="8.84" rx="2" fill="#0E2A1E" transform="rotate(180.0)"/>
+<rect x="-3.6400000000000006" y="-30.68" width="7.280000000000001" height="8.84" rx="2" fill="#0E2A1E" transform="rotate(225.0)"/>
+<rect x="-3.6400000000000006" y="-30.68" width="7.280000000000001" height="8.84" rx="2" fill="#0E2A1E" transform="rotate(270.0)"/>
+<rect x="-3.6400000000000006" y="-30.68" width="7.280000000000001" height="8.84" rx="2" fill="#0E2A1E" transform="rotate(315.0)"/>
+<circle r="23.92" fill="#0E2A1E"/>
+<circle r="10.4" fill="#071019"/>
+<animateTransform attributeName="transform" type="rotate" from="0 70 60" to="360 70 60" dur="14s" repeatCount="indefinite" additive="sum"/>
+</g>
+<g id="gearB" transform="translate(1140,270)">
+<rect x="-4.760000000000001" y="-40.12" width="9.520000000000001" height="11.56" rx="2" fill="#0E2A1E" transform="rotate(0.0)"/>
+<rect x="-4.760000000000001" y="-40.12" width="9.520000000000001" height="11.56" rx="2" fill="#0E2A1E" transform="rotate(36.0)"/>
+<rect x="-4.760000000000001" y="-40.12" width="9.520000000000001" height="11.56" rx="2" fill="#0E2A1E" transform="rotate(72.0)"/>
+<rect x="-4.760000000000001" y="-40.12" width="9.520000000000001" height="11.56" rx="2" fill="#0E2A1E" transform="rotate(108.0)"/>
+<rect x="-4.760000000000001" y="-40.12" width="9.520000000000001" height="11.56" rx="2" fill="#0E2A1E" transform="rotate(144.0)"/>
+<rect x="-4.760000000000001" y="-40.12" width="9.520000000000001" height="11.56" rx="2" fill="#0E2A1E" transform="rotate(180.0)"/>
+<rect x="-4.760000000000001" y="-40.12" width="9.520000000000001" height="11.56" rx="2" fill="#0E2A1E" transform="rotate(216.0)"/>
+<rect x="-4.760000000000001" y="-40.12" width="9.520000000000001" height="11.56" rx="2" fill="#0E2A1E" transform="rotate(252.0)"/>
+<rect x="-4.760000000000001" y="-40.12" width="9.520000000000001" height="11.56" rx="2" fill="#0E2A1E" transform="rotate(288.0)"/>
+<rect x="-4.760000000000001" y="-40.12" width="9.520000000000001" height="11.56" rx="2" fill="#0E2A1E" transform="rotate(324.0)"/>
+<circle r="31.28" fill="#0E2A1E"/>
+<circle r="13.600000000000001" fill="#071019"/>
+<animateTransform attributeName="transform" type="rotate" from="0 1140 270" to="360 1140 270" dur="20s" repeatCount="indefinite" additive="sum"/>
+</g>
+
+    <text x="40" y="300" font-family="DejaVu Sans Mono, monospace" font-size="13"
+          fill="#00E5FF" opacity="0">
+      fun main() {{
+      <animate attributeName="y" from="300" to="160" dur="6s"
+               begin="0.0s" repeatCount="indefinite"/>
+      <animate attributeName="opacity" values="0;0.55;0.55;0" keyTimes="0;0.15;0.75;1"
+               dur="6s" begin="0.0s" repeatCount="indefinite"/>
+    </text>
+
+    <text x="185" y="263" font-family="DejaVu Sans Mono, monospace" font-size="13"
+          fill="#3DDC84" opacity="0">
+      class Robot : Droid()
+      <animate attributeName="y" from="263" to="123" dur="7s"
+               begin="0.6s" repeatCount="indefinite"/>
+      <animate attributeName="opacity" values="0;0.55;0.55;0" keyTimes="0;0.15;0.75;1"
+               dur="7s" begin="0.6s" repeatCount="indefinite"/>
+    </text>
+
+    <text x="330" y="226" font-family="DejaVu Sans Mono, monospace" font-size="13"
+          fill="#3DDC84" opacity="0">
+      01001000 01101001
+      <animate attributeName="y" from="226" to="86" dur="8s"
+               begin="1.2s" repeatCount="indefinite"/>
+      <animate attributeName="opacity" values="0;0.55;0.55;0" keyTimes="0;0.15;0.75;1"
+               dur="8s" begin="1.2s" repeatCount="indefinite"/>
+    </text>
+
+    <text x="475" y="189" font-family="DejaVu Sans Mono, monospace" font-size="13"
+          fill="#00E5FF" opacity="0">
+      Jetpack Compose
+      <animate attributeName="y" from="189" to="49" dur="9s"
+               begin="1.7999999999999998s" repeatCount="indefinite"/>
+      <animate attributeName="opacity" values="0;0.55;0.55;0" keyTimes="0;0.15;0.75;1"
+               dur="9s" begin="1.7999999999999998s" repeatCount="indefinite"/>
+    </text>
+
+    <text x="620" y="152" font-family="DejaVu Sans Mono, monospace" font-size="13"
+          fill="#3DDC84" opacity="0">
+      RecyclerView.Adapter
+      <animate attributeName="y" from="152" to="12" dur="6s"
+               begin="2.4s" repeatCount="indefinite"/>
+      <animate attributeName="opacity" values="0;0.55;0.55;0" keyTimes="0;0.15;0.75;1"
+               dur="6s" begin="2.4s" repeatCount="indefinite"/>
+    </text>
+
+    <text x="765" y="275" font-family="DejaVu Sans Mono, monospace" font-size="13"
+          fill="#3DDC84" opacity="0">
+      viewModelScope.launch
+      <animate attributeName="y" from="275" to="135" dur="7s"
+               begin="3.0s" repeatCount="indefinite"/>
+      <animate attributeName="opacity" values="0;0.55;0.55;0" keyTimes="0;0.15;0.75;1"
+               dur="7s" begin="3.0s" repeatCount="indefinite"/>
+    </text>
+
+    <text x="910" y="238" font-family="DejaVu Sans Mono, monospace" font-size="13"
+          fill="#00E5FF" opacity="0">
+      onCreate(savedInstance)
+      <animate attributeName="y" from="238" to="98" dur="8s"
+               begin="3.5999999999999996s" repeatCount="indefinite"/>
+      <animate attributeName="opacity" values="0;0.55;0.55;0" keyTimes="0;0.15;0.75;1"
+               dur="8s" begin="3.5999999999999996s" repeatCount="indefinite"/>
+    </text>
+
+    <text x="1055" y="201" font-family="DejaVu Sans Mono, monospace" font-size="13"
+          fill="#3DDC84" opacity="0">
+      0xCAFEBABE
+      <animate attributeName="y" from="201" to="61" dur="9s"
+               begin="4.2s" repeatCount="indefinite"/>
+      <animate attributeName="opacity" values="0;0.55;0.55;0" keyTimes="0;0.15;0.75;1"
+               dur="9s" begin="4.2s" repeatCount="indefinite"/>
+    </text>
+
+    <g transform="translate(95,210)">
+      <use href="#androidBot" x="-25.5" y="-30.599999999999998" width="51.0" height="61.199999999999996">
+        <animateTransform attributeName="transform" type="translate"
+          values="0,0; 0,-16; 0,0" dur="3.4s" begin="0.0s"
+          repeatCount="indefinite" additive="sum" calcMode="spline"
+          keySplines="0.42 0 0.58 1; 0.42 0 0.58 1"/>
+        <animateTransform attributeName="transform" type="rotate"
+          values="-6;6;-6" dur="4.42s" begin="0.0s"
+          repeatCount="indefinite" additive="sum"/>
+      </use>
+      <ellipse cx="0" cy="36.599999999999994" rx="21.419999999999998" ry="4" fill="#000" opacity="0.25">
+        <animate attributeName="rx" values="21.419999999999998;14.280000000000001;21.419999999999998" dur="3.4s"
+                 begin="0.0s" repeatCount="indefinite"/>
+      </ellipse>
+    </g>
+
+    <g transform="translate(250,90)">
+      <use href="#androidBot" x="-16.5" y="-19.8" width="33.0" height="39.6">
+        <animateTransform attributeName="transform" type="translate"
+          values="0,0; 0,-12; 0,0" dur="2.6s" begin="0.4s"
+          repeatCount="indefinite" additive="sum" calcMode="spline"
+          keySplines="0.42 0 0.58 1; 0.42 0 0.58 1"/>
+        <animateTransform attributeName="transform" type="rotate"
+          values="-6;6;-6" dur="3.3800000000000003s" begin="0.4s"
+          repeatCount="indefinite" additive="sum"/>
+      </use>
+      <ellipse cx="0" cy="25.8" rx="13.86" ry="4" fill="#000" opacity="0.25">
+        <animate attributeName="rx" values="13.86;9.24;13.86" dur="2.6s"
+                 begin="0.4s" repeatCount="indefinite"/>
+      </ellipse>
+    </g>
+
+    <g transform="translate(560,250)">
+      <use href="#androidBot" x="-27.0" y="-32.4" width="54.0" height="64.8">
+        <animateTransform attributeName="transform" type="translate"
+          values="0,0; 0,-18; 0,0" dur="3.9s" begin="0.8s"
+          repeatCount="indefinite" additive="sum" calcMode="spline"
+          keySplines="0.42 0 0.58 1; 0.42 0 0.58 1"/>
+        <animateTransform attributeName="transform" type="rotate"
+          values="-6;6;-6" dur="5.07s" begin="0.8s"
+          repeatCount="indefinite" additive="sum"/>
+      </use>
+      <ellipse cx="0" cy="38.4" rx="22.68" ry="4" fill="#000" opacity="0.25">
+        <animate attributeName="rx" values="22.68;15.120000000000001;22.68" dur="3.9s"
+                 begin="0.8s" repeatCount="indefinite"/>
+      </ellipse>
+    </g>
+
+    <g transform="translate(940,80)">
+      <use href="#androidBot" x="-18.0" y="-21.599999999999998" width="36.0" height="43.199999999999996">
+        <animateTransform attributeName="transform" type="translate"
+          values="0,0; 0,-14; 0,0" dur="3.0s" begin="0.2s"
+          repeatCount="indefinite" additive="sum" calcMode="spline"
+          keySplines="0.42 0 0.58 1; 0.42 0 0.58 1"/>
+        <animateTransform attributeName="transform" type="rotate"
+          values="-6;6;-6" dur="3.9000000000000004s" begin="0.2s"
+          repeatCount="indefinite" additive="sum"/>
+      </use>
+      <ellipse cx="0" cy="27.599999999999998" rx="15.12" ry="4" fill="#000" opacity="0.25">
+        <animate attributeName="rx" values="15.12;10.080000000000002;15.12" dur="3.0s"
+                 begin="0.2s" repeatCount="indefinite"/>
+      </ellipse>
+    </g>
+
+    <g transform="translate(1100,230)">
+      <use href="#androidBot" x="-21.0" y="-25.2" width="42.0" height="50.4">
+        <animateTransform attributeName="transform" type="translate"
+          values="0,0; 0,-15; 0,0" dur="3.6s" begin="0.6s"
+          repeatCount="indefinite" additive="sum" calcMode="spline"
+          keySplines="0.42 0 0.58 1; 0.42 0 0.58 1"/>
+        <animateTransform attributeName="transform" type="rotate"
+          values="-6;6;-6" dur="4.680000000000001s" begin="0.6s"
+          repeatCount="indefinite" additive="sum"/>
+      </use>
+      <ellipse cx="0" cy="31.2" rx="17.64" ry="4" fill="#000" opacity="0.25">
+        <animate attributeName="rx" values="17.64;11.760000000000002;17.64" dur="3.6s"
+                 begin="0.6s" repeatCount="indefinite"/>
+      </ellipse>
+    </g>
+
+  <text x="60%" y="46%" text-anchor="middle" font-family="DejaVu Sans, sans-serif"
+        font-size="54" font-weight="700" fill="#FFFFFF">HARSHITH SHETTY</text>
+  <text x="60%" y="58%" text-anchor="middle" font-family="DejaVu Sans Mono, monospace"
+        font-size="20" fill="#3DDC84">Android Developer  ·  Kotlin / Java  ·  DSA Grinder</text>
+
+</svg>
