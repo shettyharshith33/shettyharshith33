@@ -87,6 +87,6 @@
 <div align="center">
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:3DDC84,50:00C2A8,100:7F52FF&height=140&section=footer"/>
 
-## Done stalking ? Now go build something 🚀</sub>
+## Done stalking ? Now go build something 👉</sub>
 
 </div>
